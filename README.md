@@ -9,6 +9,13 @@
   ->**pip install -r requirments.txt**<br>
 5.run server using below cmd:<br>
   ->**python manage.py runserver**<br>
-  
+
+
+**Demo** <br>
+ 
+
+https://github.com/19N31A05M2/Result-Analyzer/assets/76157007/7b570a75-5ce7-45da-adbc-42c80bafdef3
+
+
 **Contact**<br>
 email : techne487@gmail.com
